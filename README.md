@@ -55,5 +55,7 @@ mean_subjects_graphs_jpg_tiff_v11.py and subjects_graphs_jpg_tiff_v11.py :
 # Subjects 01 and 05
 run decoding_v11.py -i ./data/ -o ./results/ -t False -f True -s 01 05 -l components_trials -a 8 -m 6 10 25 50
 run luck_decoding_v11.py -i ./data/ -o ./results/ -t False -f True -s 01 05 -l components_trials -a 8 -m 6 10 25 50
+copy the components_trials folder on the 06_10_25_50 folder
 run subjects_graphs_jpg_tiff_v11.py -o ./results/ -t False -f True -s 01 05 -l components_trials -a 8
 run mean_subjects_graphs_jpg_tiff_v11.py -o ./results/ -t False -f True -s 01 05 -l components_trials -a 8
+Graphs are on the folder results\components_trials\morlet\graphes
