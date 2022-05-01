@@ -1,9 +1,8 @@
+# NeuroEngage Project
+# 2022
 # Stable decoding of working memory load through frequency bands
  Meyi Duleme, Stéphane Perrey, Gérard Dray. Stable decoding of working memory load through frequency bands. Cognitive Neuroscience, Taylor and Francis, In press, pp.1-14. ⟨10.1080/17588928.2022.2026312⟩. ⟨hal-03559620⟩
  With the help of Sébastien Marchal
-
-# NeuroEngage Project
-# 2022
 
 This program implements a supervised learning method, Multi Variate Pattern Analysis, to decode the EEG signals of a subject and identify the instants of the signal that are discriminating with respect to the task performed by the subject.
 The temporal signal can be used as well as a decomposition of Morlet frequency according to different frequencies chosen.
