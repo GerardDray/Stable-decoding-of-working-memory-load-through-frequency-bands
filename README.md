@@ -55,6 +55,7 @@ mean_subjects_graphs_jpg_tiff_v11.py and subjects_graphs_jpg_tiff_v11.py :
 
 # Example
 Theta/Alpha/Beta/Gamma	 06 10 25 50
+
 Subjects 01 and 05
 
 run decoding_v11.py -i ./data/ -o ./results/ -t False -f True -s 01 05 -l components_trials -a 8 -m 6 10 25 50
